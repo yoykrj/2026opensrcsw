@@ -7,9 +7,9 @@
 - Git & GitHub
 
 ## 코드 샘플
-'''python
+```python
 print("Hello, Open Source!")
-'''
+```
 
 ## 수업 목록
 | 항목 | 내용 |
